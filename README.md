@@ -1,13 +1,18 @@
-Hey there! 🇺🇦
+### Hey there! 🇺🇦
 
 I'm a cybersecurity enthusiast, an android dev and a technical translator.
 
 ### Current projects/repositories:
-- **[ЄДКІ. Кібербезпека](https://github.com/ArchExalt/EDKI.Kiberbezpeka)**: Android-застосунок для підготовки до ЄДКІ за спеціальністю 125 (Кібербезпека та захист інформації)
-- **[Elden Ring Checklist](https://github.com/ArchExalt/EldenRingChecklist):** A minimalistic Elden Ring Checklist for Android
-- **[Credential Manager](https://github.com/ArchExalt/CredentialManager):** A guide for implementing Android Authentication using Sign in with Google, Credential Manager and Firebase Authentication in Kotlin; some pieces of advice regarding key/keystore passwords updates; RELEASE version signingconfig
-- **[Information Security Resources](https://github.com/ArchExalt/InfoSecResources):** A list of information security resources and other useful links
-- **[Subdomain Finder](https://github.com/ArchExalt/SubdomainFinder):** A simple subdomain finder written in Python
+
+📌 **[ЄДКІ. Кібербезпека](https://github.com/ArchExalt/EDKI.Kiberbezpeka)**: Android-застосунок для підготовки до ЄДКІ за спеціальністю 125 (Кібербезпека та захист інформації)
+
+📌 **[Elden Ring Checklist](https://github.com/ArchExalt/EldenRingChecklist):** A minimalistic Elden Ring Checklist Android app
+
+📌 **[Credential Manager](https://github.com/ArchExalt/CredentialManager):** An implementation guide for Android Authentication using Sign in with Google, Credential Manager and Firebase Authentication in Kotlin; key/keystore passwords update; RELEASE version signingconfig
+
+📌 **[Information Security Resources](https://github.com/ArchExalt/InfoSecResources):** A list of information security resources and other useful links
+
+📌 **[Subdomain Finder](https://github.com/ArchExalt/SubdomainFinder):** A simple subdomain finder written in Python
 
 Feel free to contact me at archexalt@proton.me.
 
