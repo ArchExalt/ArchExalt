@@ -1,6 +1,8 @@
 ### Hey there! 🇺🇦
 
-I'm a cybersecurity enthusiast, an android dev and a technical translator.
+I'm a cybersecurity enthusiast, an android dev and a technical translator. 
+
+![GitHub User's stars](https://img.shields.io/github/stars/ArchExalt) ![GitHub followers](https://img.shields.io/github/followers/ArchExalt)
 
 ### Current projects:
 
