@@ -8,7 +8,7 @@ I'm a cybersecurity enthusiast, an android dev and a technical translator.
 | --- | --- |
 | 🔛 **[ЄДКІ. Кібербезпека](https://github.com/ArchExalt/edki-cybersecurity-android)** | An Android app for complex preparation for the Cybersecurity and Information Protection specialty state exam. [Ukrainian]| 
 | 🔛 **[Elden Ring Checklist](https://github.com/ArchExalt/elden-ring-checklist-android)** | A minimalistic Elden Ring Checklist Android app| 
-| 🔛 **[Cybersecurity Resources](https://github.com/ArchExalt/cybersecurity-resources)**|  A list of information security resources and other useful links| 
+| 🔛 **[Cybersecurity Resources](https://github.com/ArchExalt/cybersecurity-resources)**|  A library of information security resources (OSINT, forensics, cybersecurity) and other useful links | 
 | ✅ **[Credential Manager](https://github.com/ArchExalt/credential-manager-kotlin)** | Android Authentication implementation guide using Sign in with Google, Credential Manager and Firebase Authentication in Kotlin; key/keystore passwords updating; RELEASE version SigningConfig| 
 | ✅ **[Subdomain Finder](https://github.com/ArchExalt/subdomain-finder-python)**|  A simple subdomain finder written in Python | 
 | ✅ **[AT89C52 Controller Programming](https://github.com/ArchExalt/proteus-keil-at89c52-programming-labs)**|  Programming projects for AT89C52 controller in Proteus: diodes, 7-segment indicator, 8x8 matrix, calculator | 
